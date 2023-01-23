@@ -1,0 +1,24 @@
+{
+  "name": "sponquotes",
+  "version": "1.0.0",
+  "description": "Spontaneous Quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LizzColDev/SponQuotes.git"
+  },
+  "keywords": [],
+  "author": "Lisbeth Quintero <lquintero28@live.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LizzColDev/SponQuotes/issues"
+  },
+  "homepage": "https://github.com/LizzColDev/SponQuotes#readme",
+  "bin": {
+    "sponQuotes": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
